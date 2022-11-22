@@ -38,7 +38,7 @@ infoanimal.get('/', (req, res) => {
 
     db.collection('dataanimal')
         .find()
-        .sort({ author: 1 })
+        .sort({ title: 1 })
         .forEach(book => books.push(book))
         .then(() => {
             res.status(200).json(books)
