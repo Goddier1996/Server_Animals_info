@@ -1,0 +1,190 @@
+[{
+    "title": "Cat",
+    "sound": "http://www.fun-lover.com/music/wavs/cat.wav",
+    "image": "https://i.postimg.cc/K8s7TGTR/cat1.jpg",
+    "eat": "cat food",
+    "infoAnimal": "Cats are believed to be the only mammals who don't taste sweetness. Cats are nearsighted, but their peripheral vision and night vision are much better than that of humans. Cats are supposed to have 18 toes (five toes on each front paw; four toes on each back paw). Cats can jump up to six times their length. Lifespan: 12 – 18 years (Domesticated).",
+    "infoImage": "https://i.postimg.cc/44pZYRqR/cat2.jpg",
+    "eatImage": "https://i.postimg.cc/HkXHBhRZ/cat9.png",
+    "notEatImage": "https://i.postimg.cc/SNbgc1LN/dog9.png"
+}, {
+    "title": "Dog",
+    "sound": "http://www.fun-lover.com/music/wavs/dog03.wav",
+    "image": "https://i.postimg.cc/SxX2wWXx/2071.jpg",
+    "eat": "dog food",
+    "infoAnimal": "A dog is a domestic mammal from the Canidae family and the Carnivora order. Its scientific name is Canis lupus familiaris. Dogs are a subspecies of the gray wolf, and are also related to foxes and jackals. Dogs are one of the two most common and popular pets in the world. Lifespan: 10 – 13 years.",
+    "infoImage": "https://i.postimg.cc/P5y5PnL5/dog.jpg",
+    "eatImage": "https://i.postimg.cc/SNbgc1LN/dog9.png",
+    "notEatImage": "https://i.postimg.cc/HkXHBhRZ/cat9.png"
+}, {
+    "title": "Lion",
+    "sound": "https://seaworld.org/-/media/seaworld-dotorg/audio-files/sound-library/lion_1.ashx?version=1_201811134826&la=en&hash=7232CC103347978D2ED052B973F0EE79E28CAABA",
+    "image": "https://i.postimg.cc/gJ42wJw7/li.jpg",
+    "eat": "meat",
+    "infoAnimal": "The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail. It is sexually dimorphic; adult male lions are larger than females and have a prominent mane. Lifespan: 15 – 16 years (Female, Adult, In the wild), 8 – 10 years (Male, Adult, In the wild).",
+    "infoImage": "https://i.postimg.cc/2Ss2bMgg/1920x1080-1141672-animals-lion-wildlife-big-cats-grassland-Safari-adventure-fauna-mammal-vertebrate.jpg",
+    "eatImage": "https://i.postimg.cc/8k0j83wp/meat.png",
+    "notEatImage": "https://i.postimg.cc/Sx0RRMwH/leaves.png"
+}, {
+    "title": "Zebra",
+    "sound": "https://www.freesoundeffects.com/files/mp3_466247.mp3",
+    "image": "https://i.postimg.cc/SKk4W4pb/16704035-3800-1-06.jpg",
+    "eat": "carrot",
+    "infoAnimal": "These black and white equids live in East and southern Africa. Zebras are single-hoofed animals that are native to Africa. Zebras are very closely related to horses and donkeys; in fact, they are in the same genus, Equus. The most prominent feature of zebras is the bold patterns on their coats.",
+    "infoImage": "https://i.postimg.cc/fW8CjJ6c/1920x1080-516038-zebra.jpg",
+    "eatImage": "https://i.postimg.cc/zBPXrbCt/carrot.png",
+    "notEatImage": "https://i.postimg.cc/8sgGphjH/insects.png"
+}, {
+    "title": "Tiger",
+    "sound": "http://www.greatbluemarble.com/tiger.wav",
+    "image": "https://i.postimg.cc/przxfLyx/19493807-4100-4-05.jpg",
+    "eat": "meat",
+    "infoAnimal": "The tiger is the largest living cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange fur with a white underside. An apex predator, it primarily preys on ungulates, such as deer and wild boar. Lifespan: 8 – 10 years (In the wild).",
+    "infoImage": "https://i.postimg.cc/X70553vf/1920x1080-130147-siberian-tiger-amur-tiger-hd.jpg",
+    "eatImage": "https://i.postimg.cc/8k0j83wp/meat.png",
+    "notEatImage": "https://i.postimg.cc/YCnpgLVp/banana.png"
+}, {
+    "title": "Elephant",
+    "sound": "http://thestablesbb.powweb.com/WAV%20FILES/elephant.wav",
+    "image": "https://i.postimg.cc/DynRjgM1/27313246-5300-4-04.jpg",
+    "eat": "fruits",
+    "infoAnimal": "Elephants are the largest existing land animals. Three living species are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant. They are the only surviving members of the family Elephantidae and the order Proboscidea. Lifespan: Asian elephant: 48 years, African bush elephant: 60 – 70 years, African forest elephant: 60 – 70 years.",
+    "infoImage": "https://i.postimg.cc/c4mv8n2W/1920x1080-1145786-animals-nature-wildlife-elephant-grassland-Safari-herd-adventure-plain-fauna-mamma.jpg",
+    "eatImage": "https://i.postimg.cc/cCBWJvwG/fruits.png",
+    "notEatImage": "https://i.postimg.cc/W4qPkWgn/fish.png"
+}, {
+    "title": "Monkey",
+    "sound": "http://ring-nature.com/tones/monkey.mp3",
+    "image": "https://i.postimg.cc/2Sf7mkWW/26259328-5100-5-05.jpg",
+    "eat": "banana",
+    "infoAnimal": "Monkeys are social creatures that usually live together; a group of monkeys is called a troop. Monkeys have a variety of social systems. One of the most common troop structures is called a one-male group, in which a male leads a group of females and other males, usually staying close to a particular location. Lifespan: Mandrill: 20 years, Black howler: 15 – 20 years.",
+    "infoImage": "https://i.postimg.cc/zfY4ZyDL/1920x1080-5397317-monkey-tree-leaf-primate-mammal-nature-leafe-jungle-ape-animal-baby-monkey-creativ.jpg",
+    "eatImage": "https://i.postimg.cc/YCnpgLVp/banana.png",
+    "notEatImage": "https://i.postimg.cc/zBPXrbCt/carrot.png"
+}, {
+    "title": "Snake",
+    "sound": "http://www.slspencer.com/Sounds/Various/hiss.mp3",
+    "image": "https://i.postimg.cc/FzTXvWWd/22750921-4500-4-10.jpg",
+    "eat": "mouse",
+    "infoAnimal": "A snake is a reptile with a long, thin body but no legs. Some lizards are legless and look like snakes, however, most lizards have eyelids, and snakes do not. All snakes eat live prey, which is grabbed and swallowed whole without chewing it into pieces.",
+    "infoImage": "https://i.postimg.cc/V6dhXnDV/1920x1080-1128480-animals-nature-snake-wildlife-reptiles-serpent-Boa-constrictor-reptile-fauna-verte.jpg",
+    "eatImage": "https://i.postimg.cc/htH5HSQL/mouse.png",
+    "notEatImage": "https://i.postimg.cc/Sx0RRMwH/leaves.png"
+}, {
+    "title": "Guinea pig",
+    "sound": "https://www.freesoundeffects.com/files/mp3_466294.mp3",
+    "image": "https://i.postimg.cc/HscjzR6P/14869432-3500-5-01.jpg",
+    "eat": "fruits",
+    "infoAnimal": "Guinea pigs are tailless rodents that weigh between 1.5 and 2.5 lbs. (700 to 1,100 grams), according to the Animal Diversity Web (ADW). Their compact, cylindrical bodies range from 8 to 10 inches (20.3 to 25.4 cm) long. Their ears are small and petal-shaped and their eyes are set on the sides of their heads. Lifespan: 4 – 8 years (In captivity).",
+    "infoImage": "https://i.postimg.cc/X77CLLwq/1920x1080-758611-Rodents-Guinea-pigs-Grass.jpg",
+    "eatImage": "https://i.postimg.cc/cCBWJvwG/fruits.png",
+    "notEatImage": "https://i.postimg.cc/htH5HSQL/mouse.png"
+}, {
+    "title": "Leopard",
+    "sound": "http://www.animal-sounds.org/jungle/Leopard%20growl%20animals089.wav",
+    "image": "https://i.postimg.cc/B6xM2j2J/28565646-5600-2-07.jpg",
+    "eat": "meat",
+    "infoAnimal": "Leopards are graceful and powerful big cats closely related to lions, tigers, and jaguars. They live in sub-Saharan Africa, northeast Africa, Central Asia, India, and China. However, many of their populations are endangered, especially outside of Africa.",
+    "infoImage": "https://i.postimg.cc/NfHw3q8z/1920x1080-1156760-wildlife-big-cats-Zoo-whiskers-leopard-Jaguar-snow-leopard-leopard-animal-fauna-ma.jpg",
+    "eatImage": "https://i.postimg.cc/8k0j83wp/meat.png",
+    "notEatImage": "https://i.postimg.cc/htH5HSQL/mouse.png"
+}, {
+    "title": "Fox",
+    "sound": "http://www.flagislandwebcam.com/animalsounds/foxsquall.wav",
+    "image": "https://i.postimg.cc/pTtBVP44/12853811-15-08.jpg",
+    "eat": "mouse",
+    "infoAnimal": "Foxes are omnivorous mammals that are light on their feet. They are often mistaken for other members of the Canidae family, which include jackals, wolves and dogs. They stand out from their relatives because of their long, thin legs, lithe frame, pointed nose and bushy tail.",
+    "infoImage": "https://i.postimg.cc/wBvtcjJr/82707.jpg",
+    "eatImage": "https://i.postimg.cc/htH5HSQL/mouse.png",
+    "notEatImage": "https://i.postimg.cc/zBPXrbCt/carrot.png"
+}, {
+    "title": "Pigs",
+    "sound": "http://www.lunaticrage.com/drippy/steamdl/sound/d2f/pig.wav",
+    "image": "https://i.postimg.cc/CKCqNkrr/26385275-7218879.jpg",
+    "eat": "apply",
+    "infoAnimal": "Fully grown, pigs can grow to between 300 and 700 pounds (140 and 300 kilograms), and sometimes much more. Pigs have poor eyesight, but a great sense of smell. The pig's nostrils are on its leathery snout, which is very sensitive to touch. The pig uses the snout to search, or root, for food. Lifespan: 15 – 20 years.",
+    "infoImage": "https://i.postimg.cc/5295T1LB/1920x1080-464242-pigs-animals-baby-animals-mammals-boars.jpg",
+    "eatImage": "https://i.postimg.cc/FRqdxnBH/apple.png",
+    "notEatImage": "https://i.postimg.cc/htH5HSQL/mouse.png"
+}, {
+    "title": "Penguin",
+    "sound": "http://www.vogelstimmen.info/Vogelstimmen_GRATIS/Zuegelpinguin_Pygoscelis_antarctica_AMPLE-814752D.mp3",
+    "image": "https://i.postimg.cc/y6j2GGSs/28952502-5600-9-02.jpg",
+    "eat": "fish",
+    "infoAnimal": "Penguins are flightless seabirds that live almost exclusively below the equator. Some island-dwellers can be found in warmer climates, but most—including emperor, adélie, chinstrap, and gentoo penguins—reside in and around icy Antarctica. Lifespan: Emperor penguin: 15 – 20 years, Little penguin: 6 years.",
+    "infoImage": "https://i.postimg.cc/ZnF7PHz4/1920x1080-1000014-penguins-animals-Arctic-Penguin-beak-bird-fauna-flightless-bird-vertebrate-king-pe.jpg",
+    "eatImage": "https://i.postimg.cc/W4qPkWgn/fish.png",
+    "notEatImage": "https://i.postimg.cc/htH5HSQL/mouse.png"
+}, {
+    "title": "Lemur ",
+    "sound": "http://thestablesbb.powweb.com/WAV%20FILES/lemur.wav",
+    "image": "https://i.postimg.cc/VNx9Nzrn/27313263-5300-5-01.jpg",
+    "eat": "insects",
+    "infoAnimal": "This was a world when lemur-like animals, the planet's first primates, roamed Africa along with the dinosaurs. Scientists think that around 65 million years ago, lemurs rafted across the Indian Ocean to the island of Madagascar on floating vegetation",
+    "infoImage": "https://i.postimg.cc/XqdJsZsV/1920x1080-824150-Ring-tailed-lemur-Lemurs-Grass.jpg",
+    "eatImage": "https://i.postimg.cc/8sgGphjH/insects.png",
+    "notEatImage": "https://i.postimg.cc/HkXHBhRZ/cat9.png"
+}, {
+    "title": "Raccoon",
+    "sound": "https://seaworld.org/-/media/seaworld-dotorg/audio-files/sound-library/racoon_babies.ashx?version=1_201811134825&la=en&hash=2DF5BA6AD520604015B01E1E33CDFAC6365BC25E",
+    "image": "https://i.postimg.cc/d1n8jrNm/16305709-3700-2-07.jpg",
+    "eat": "frog",
+    "infoAnimal": "Raccoons are very adaptable, so they live in a wide range of climates and habitats. (Image credit: Dreamstime.) Raccoons are round, fuzzy creatures with bushy tails and a black mask of fur that covers their eye area. These animals may look like cute, cuddly bandits, but they can be quite fearsome when approached. Lifespan: 2 – 3 years (In the wild).",
+    "infoImage": "https://i.postimg.cc/XYRjXK3Q/1920x1080-115642-raccoon-eyes-look-fur-close-up-nature-animal.jpg",
+    "eatImage": "https://i.postimg.cc/Fz6tPwt1/frog.png",
+    "notEatImage": "https://i.postimg.cc/SNbgc1LN/dog9.png"
+}, {
+    "title": "Whale",
+    "sound": "http://www24.big.or.jp/~kyusoku/sound/int_veruga.wav",
+    "image": "https://i.postimg.cc/RFVmNJ3n/2254.jpg",
+    "eat": "fish",
+    "infoAnimal": "Whales are a widely distributed and diverse group of fully aquatic placental marine mammals. They are an informal grouping within the infraorder Cetacea, which usually excludes dolphins and porpoises. Whales, dolphins and porpoises belong to the order Cetartiodactyla, which consists of even-toed ungulates. Lifespan: Orca: 10 – 45 years, Humpback whale: 45 – 50 years.",
+    "infoImage": "https://i.postimg.cc/tJrjtW6Z/1920x1080-1060533-animals-sea-whale-humpback-whale-biology-ocean-mammal-vertebrate-marine-biology-ma.jpg",
+    "eatImage": "https://i.postimg.cc/W4qPkWgn/fish.png",
+    "notEatImage": "https://i.postimg.cc/SNbgc1LN/dog9.png"
+}, {
+    "title": "Seal",
+    "sound": "http://www.babybeanie.com/sounds/seal.wav",
+    "image": "https://i.postimg.cc/MKs9SMwF/21970023-4300-9-12.jpg",
+    "eat": "fish",
+    "infoAnimal": "Seals are carnivorous and dive underwater to hunt for fish, crustaceans, seabirds, and other marine animals. Whales, sharks, and even other seals are the primary non-human predators of seals.",
+    "infoImage": "https://i.postimg.cc/053xQd9F/1920x1080-115584-crabeater-seal-sea-calf-antarctica-snow-sunny-day-animal-smile.jpg",
+    "eatImage": "https://i.postimg.cc/W4qPkWgn/fish.png",
+    "notEatImage": "https://i.postimg.cc/cCBWJvwG/fruits.png"
+}, {
+    "title": "Hippo ",
+    "sound": "https://seaworld.org/-/media/seaworld-dotorg/audio-files/sound-library/hippo.ashx?version=1_201811134823&la=en&hash=5115486AA7C968C73AAC0E4FA24AB2C506FC0546",
+    "image": "https://i.postimg.cc/pXNFnPZL/24211579-4700-8-10.jpg",
+    "eat": "leaves",
+    "infoAnimal": "1) Hippos are large semi-aquatic mammals, with a large barrel-shaped body, short legs, a short tail and an enormous head! They have greyish to muddy-brown skin, which fades to a pale pink colour underneath. 2) They are considered the second largest land animal on Earth (first place goes to the elephant!). Lifespan: 40 – 50 years.",
+    "infoImage": "https://i.postimg.cc/W1zHJxS7/1920x1080-553769-hippo.jpg",
+    "eatImage": "https://i.postimg.cc/Sx0RRMwH/leaves.png",
+    "notEatImage": "https://i.postimg.cc/HkXHBhRZ/cat9.png"
+}, {
+    "title": "Alligator",
+    "sound": "http://aliceshalloweenfun.homestead.com/Aligator_growl.wav",
+    "image": "https://i.postimg.cc/tR1VvsT5/24921550-4900-1-06.jpg",
+    "eat": "meat",
+    "infoAnimal": "Alligators are large reptiles and members of the order Crocodylia. The two existing species of alligators and the many worldwide species of crocodiles are closely related, and people often confuse one with the other. An alligator is distinguished by its wide, rounded snout and black color. Lifespan: American alligator: 30 – 50 years.",
+    "infoImage": "https://i.postimg.cc/nLR79wRq/1920x1080-1074515-animals-wildlife-crocodiles-swamp-reptile-crocodile-fauna-alligator-vertebrate-cro.jpg",
+    "eatImage": "https://i.postimg.cc/8k0j83wp/meat.png",
+    "notEatImage": "https://i.postimg.cc/8sgGphjH/insects.png"
+}, {
+    "title": "Bat",
+    "sound": "http://bertrik.sikken.nl/bat/wav/bat2.wav",
+    "image": "https://i.postimg.cc/tJ7d2kct/24921554-4900-1-10.jpg",
+    "eat": "fruits",
+    "infoAnimal": "Bats are mammals of the order Chiroptera. With their forelimbs adapted as wings, they are the only mammals capable of true and sustained flight. Bats are more agile in flight than most birds, flying with their very long spread-out digits covered with a thin membrane or patagium.",
+    "infoImage": "https://i.postimg.cc/dQmsWTFx/1734213.jpg",
+    "eatImage": "https://i.postimg.cc/cCBWJvwG/fruits.png",
+    "notEatImage": "https://i.postimg.cc/Fz6tPwt1/frog.png"
+}, {
+    "title": "Camel",
+    "sound": "https://www.freesoundeffects.com/files/mp3_89414.mp3",
+    "image": "https://i.postimg.cc/sf0byN3z/21970026-4300-9-14.jpg",
+    "eat": "fruits",
+    "infoAnimal": "Camels are mammals with long legs, a big-lipped snout and a humped back. There are two types of camels: dromedary camels, which have one hump, and Bactrian camels, which have two humps. Camels' humps consist of stored fat, which they can metabolize when food and water is scarce. Lifespan: Dromedary: 40 years.",
+    "infoImage": "https://i.postimg.cc/pXwspyhP/1920x1080-1078552-landscape-sand-photography-desert-Sahara-camel-mammal-natural-environment-camel-li.jpg",
+    "eatImage": "https://i.postimg.cc/cCBWJvwG/fruits.png",
+    "notEatImage": "https://i.postimg.cc/Sx0RRMwH/leaves.png"
+}]

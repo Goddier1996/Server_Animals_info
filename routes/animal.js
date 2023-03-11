@@ -30,7 +30,6 @@ connectToDb((err) => {
 
 
 
-// here show all data animals
 
 infoanimal.get('/', (req, res) => {
 
@@ -50,8 +49,24 @@ infoanimal.get('/', (req, res) => {
 
 
 
+infoanimal.get('/hebrewLanguage', (req, res) => {
 
-// here show animal with id
+    let books = []
+
+    db.collection('dataanimalhw')
+        .find()
+        .sort({ title: 1 })
+        .forEach(book => books.push(book))
+        .then(() => {
+            res.status(200).json(books)
+        })
+        .catch(() => {
+            res.status(500).json({ error: "not fetch the file" })
+        })
+})
+
+
+
 
 infoanimal.get('/:id', (req, res) => {
 
@@ -77,8 +92,30 @@ infoanimal.get('/:id', (req, res) => {
 
 
 
+infoanimal.get('/hebrewLanguage/:id', (req, res) => {
 
-// here we add a new info animal to data base
+
+    if (ObjectId.isValid(req.params.id)) {
+
+        db.collection('dataanimalhw')
+            .findOne({ _id: ObjectId(req.params.id) })
+
+            .then(doc => {
+                res.status(200).json(doc)
+            })
+            .catch(err => {
+                res.status(500).json({ error: "not fetch the file" })
+            })
+    }
+
+    else {
+        res.status(500).json({ error: "Not a valid doc id" })
+    }
+
+})
+
+
+
 
 infoanimal.post('/add', (req, res) => {
 
@@ -98,7 +135,6 @@ infoanimal.post('/add', (req, res) => {
 
 
 
-// here we delete info animal with id
 
 infoanimal.delete('/:id', (req, res) => {
 
@@ -123,8 +159,6 @@ infoanimal.delete('/:id', (req, res) => {
 
 
 
-
-// here we updates a data animal info with id
 
 infoanimal.patch('/:id', (req, res) => {
 
