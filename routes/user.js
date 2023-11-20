@@ -26,9 +26,7 @@ connectToDb((err) => {
 
 
 
-
 // show a admin , we create this for connect to Admin Options in Client web site
-
 admin.get('/', (req, res) => {
 
     let users = []
