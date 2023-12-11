@@ -11,6 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 
+
 let db;
 
 
@@ -25,7 +26,8 @@ connectToDb((err) => {
 
 
 
-// show a admin , we create this for connect to Admin Options in Client web site
+
+
 admin.get('/', (req, res) => {
 
     let users = []
@@ -38,6 +40,27 @@ admin.get('/', (req, res) => {
             res.status(200).json(users)
         })
         .catch(() => {
+            res.status(500).json({ error: "not fetch the file" })
+        })
+})
+
+
+
+// connect login user or doctor,admin
+admin.post('/login', (req, res) => {
+
+
+    let Login = req.body.Login
+    let Password = req.body.Password
+
+
+    db.collection('user')
+        .findOne({ Login: Login, Password: Password })
+
+        .then(result => {
+            res.status(200).json(result)
+        })
+        .catch(err => {
             res.status(500).json({ error: "not fetch the file" })
         })
 })
