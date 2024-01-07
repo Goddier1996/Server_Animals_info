@@ -24,8 +24,6 @@ connectToDb((err) => {
 })
 
 
-
-
 admin.get('/', (req, res) => {
 
     let users = []
